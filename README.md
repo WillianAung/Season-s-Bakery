@@ -1,2 +1,1 @@
-# Season-s-Bakery
-Food Menu
+# My First project on GitHub
